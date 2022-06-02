@@ -14,8 +14,9 @@ section{
 }
 
 body{
-	background-image: url("img/a-force.jpg")
+	background-image: url("img/a-force.jpg");
 }
 p{
 	font-size: 150%;
+	color: blue;
 }
